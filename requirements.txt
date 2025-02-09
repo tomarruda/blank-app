@@ -1,1 +1,7 @@
 streamlit
+pandas
+os
+json
+datetime
+matplotlib
+numpy
