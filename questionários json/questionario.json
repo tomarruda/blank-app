@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Por que os gases nobres possuem afinidade eletrônica próxima de zero?",
+        "options": [
+            "A) Devido à sua alta reatividade química.",
+            "B) Por possuírem camada de valência completa e estável.",
+            "C) Porque são metais altamente eletropositivos.",
+            "D) Devido à presença de orbitais d vazios."
+        ],
+        "answer": "B) Por possuírem camada de valência completa e estável.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Afinidade Eletrônica"
+        }
+    },
+    {
+        "question": "Como a expansão da camada de valência explica a existência de moléculas como SF₆?",
+        "options": [
+            "A) O enxofre utiliza orbitais d vazios para acomodar mais elétrons.",
+            "B) A molécula segue estritamente a regra do octeto.",
+            "C) O flúor doa elétrons para o enxofre.",
+            "D) A repulsão entre elétrons é ignorada."
+        ],
+        "answer": "A) O enxofre utiliza orbitais d vazios para acomodar mais elétrons.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Regra do Octeto e Exceções",
+            "subtopic": "Expansão da Camada de Valência"
+        }
+    },
+    {
+        "question": "Por que a água (H₂O) tem ponto de ebulição anormalmente alto para sua massa molar?",
+        "options": [
+            "A) Devido às forças de London intensas.",
+            "B) Por causa das ligações de hidrogênio entre moléculas.",
+            "C) Por ser uma molécula apolar.",
+            "D) Devido à sua geometria linear."
+        ],
+        "answer": "B) Por causa das ligações de hidrogênio entre moléculas.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Forças Intermoleculares",
+            "subtopic": "Ligações de Hidrogênio"
+        }
+    },
+    {
+        "question": "Qual é a relação entre a energia de ligação e a estabilidade de uma molécula?",
+        "options": [
+            "A) Quanto maior a energia de ligação, menos estável a molécula.",
+            "B) Energia de ligação não influencia a estabilidade.",
+            "C) Quanto maior a energia de ligação, mais estável a molécula.",
+            "D) A estabilidade depende apenas da geometria molecular."
+        ],
+        "answer": "C) Quanto maior a energia de ligação, mais estável a molécula.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Energia de ligação"
+        }
+    },
+    {
+        "question": "Por que os metais alcalino-terrosos são menos reativos que os alcalinos?",
+        "options": [
+            "A) Possuem dois elétrons na camada de valência, exigindo mais energia para perdê-los.",
+            "B) Têm maior raio atômico.",
+            "C) São mais eletronegativos.",
+            "D) Formam ligações covalentes estáveis."
+        ],
+        "answer": "A) Possuem dois elétrons na camada de valência, exigindo mais energia para perdê-los.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Caráter Metálico"
+        }
+    },
+    {
+        "question": "Como a teoria VSEPR explica a geometria bipiramidal trigonal do PCl₅?",
+        "options": [
+            "A) Minimizando a repulsão entre pares de elétrons, incluindo os livres.",
+            "B) Maximizando a repulsão entre ligações duplas.",
+            "C) Ignorando a interação entre orbitais d.",
+            "D) Priorizando a hibridização sp²."
+        ],
+        "answer": "A) Minimizando a repulsão entre pares de elétrons, incluindo os livres.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Teoria VSEPR"
+        }
+    },
+    {
+        "question": "Por que íons menores possuem maior energia reticular em compostos iônicos?",
+        "options": [
+            "A) A distância entre os íons é maior, reduzindo a atração.",
+            "B) A carga nuclear efetiva é menor.",
+            "C) A proximidade entre íons aumenta a força eletrostática.",
+            "D) O tamanho do íon não influencia a energia reticular."
+        ],
+        "answer": "C) A proximidade entre íons aumenta a força eletrostática.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        }
+    },
+    {
+        "question": "Qual é o papel do princípio de Hund na distribuição eletrônica?",
+        "options": [
+            "A) Define que orbitais devem ser preenchidos um de cada vez antes de emparelhar.",
+            "B) Estabelece a ordem de preenchimento dos subníveis.",
+            "C) Determina a carga nuclear efetiva.",
+            "D) Explica a formação de ligações metálicas."
+        ],
+        "answer": "A) Define que orbitais devem ser preenchidos um de cada vez antes de emparelhar.",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Regra de Hund"
+        }
+    },
+    {
+        "question": "Por que a constante de dissociação básica (Kb) do NH₃ é relativamente baixa?",
+        "options": [
+            "A) O NH₃ é um ácido forte.",
+            "B) A base conjugada (NH₄⁺) é pouco estável.",
+            "C) O NH₃ aceita prótons com dificuldade devido à baixa eletronegatividade do N.",
+            "D) A água não é um solvente adequado para bases."
+        ],
+        "answer": "C) O NH₃ aceita prótons com dificuldade devido à baixa eletronegatividade do N.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Equilíbrios Ácido-Base",
+            "subtopic": "Constante de Dissociação Básica (Kb)"
+        }
+    },
+    {
+        "question": "Como a eletronegatividade explica a polaridade da ligação C-O?",
+        "options": [
+            "A) O oxigênio, mais eletronegativo, atrai elétrons, criando um dipolo.",
+            "B) O carbono doa elétrons voluntariamente.",
+            "C) A ligação é apolar devido à similaridade de eletronegatividade.",
+            "D) A polaridade depende apenas da geometria molecular."
+        ],
+        "answer": "A) O oxigênio, mais eletronegativo, atrai elétrons, criando um dipolo.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Eletronegatividade"
+        }
+    }
+]

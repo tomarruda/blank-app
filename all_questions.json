@@ -1,0 +1,1474 @@
+[
+    {
+        "question": "Ao analisar um composto iônico com fórmula MX₂, qual das seguintes propriedades é **mais influenciada** pela energia reticular?",
+        "options": [
+            "A) Solubilidade em solventes polares",
+            "B) Ponto de fusão",
+            "C) Condutividade elétrica no estado sólido",
+            "D) Maleabilidade"
+        ],
+        "answer": "B) Ponto de fusão",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "47b07f44-1373-430d-9190-d501e3255ebd"
+    },
+    {
+        "question": "Um elemento de transição forma um íon com configuração eletrônica [Ar] 3d⁶. Qual é a carga desse íon se o elemento neutro possui número atômico 26?",
+        "options": [
+            "A) +2",
+            "B) +3",
+            "C) +4",
+            "D) +1"
+        ],
+        "answer": "A) +2",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Configuração eletrônica de elementos de transição"
+        },
+        "id": "169b33c5-3bee-48bd-8c1e-7e2bc1d663dc"
+    },
+    {
+        "question": "Qual das seguintes moléculas **viola a regra do octeto** e apresenta **hipervalência**?",
+        "options": [
+            "A) SF₆",
+            "B) CO₂",
+            "C) NH₃",
+            "D) H₂O"
+        ],
+        "answer": "A) SF₆",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Regra do Octeto e Exceções",
+            "subtopic": "Moléculas Hipervalentes"
+        },
+        "id": "5bafa009-61eb-43f4-bb96-f331a2bbd7fb"
+    },
+    {
+        "question": "Um tampão é preparado com 0,1 mol/L de HCOOH (Ka = 1,8 × 10⁻⁴) e 0,15 mol/L de HCOONa. Qual é o pH dessa solução?",
+        "options": [
+            "A) 3,74",
+            "B) 4,05",
+            "C) 3,92",
+            "D) 4,28"
+        ],
+        "answer": "A) 3,74",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Equilíbrios Ácido-Base",
+            "subtopic": "Soluções Tampão"
+        },
+        "id": "10e65381-b77a-45c1-864b-35edd812978d"
+    },
+    {
+        "question": "Qual par de elementos são **isótonos**, sabendo que o elemento X tem Z = 20 e A = 40, e o elemento Y tem Z = 18 e A = 38?",
+        "options": [
+            "A) X e Y",
+            "B) X e um isótopo de Y",
+            "C) Y e um isóbaro de X",
+            "D) Nenhum dos pares"
+        ],
+        "answer": "A) X e Y",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Número Atômico e Massa",
+            "subtopic": "Isótonos"
+        },
+        "id": "2de72bcf-6314-44eb-847b-9232e6b14e7a"
+    },
+    {
+        "question": "Em uma reação onde NH₃ atua como base de Lewis, qual espécie é formada?",
+        "options": [
+            "A) NH₄⁺",
+            "B) NH₂⁻",
+            "C) Complexo de coordenação",
+            "D) NH₃ não reage como base de Lewis"
+        ],
+        "answer": "C) Complexo de coordenação",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Aplicação na Formação de Complexos"
+        },
+        "id": "b0caac07-6f7f-46c1-84b8-4ff916d9afd3"
+    },
+    {
+        "question": "Qual das seguintes **tendências periódicas** é explicada pela **carga nuclear efetiva**?",
+        "options": [
+            "A) Aumento do raio atômico em um grupo",
+            "B) Diminuição da energia de ionização em um período",
+            "C) Aumento da afinidade eletrônica em um período",
+            "D) Redução do caráter metálico em um grupo"
+        ],
+        "answer": "C) Aumento da afinidade eletrônica em um período",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Tendências Periódicas"
+        },
+        "id": "b3e903ba-0441-4b57-a083-c929646123b0"
+    },
+    {
+        "question": "Qual molécula apresenta **momento dipolar resultante diferente de zero**?",
+        "options": [
+            "A) CO₂",
+            "B) BF₃",
+            "C) CH₃Cl",
+            "D) CCl₄"
+        ],
+        "answer": "C) CH₃Cl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "9bdb4407-63e2-4e93-a1e8-8d4558de263e"
+    },
+    {
+        "question": "Qual é a **geometria molecular** do íon SF₄, considerando a teoria VSEPR?",
+        "options": [
+            "A) Bipiramidal trigonal",
+            "B) Tetraédrica",
+            "C) Forma de gangorra",
+            "D) Pirâmide trigonal"
+        ],
+        "answer": "A) Bipiramidal trigonal",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Bipiramidal Trigonal"
+        },
+        "id": "c94c64e0-167a-41f3-98d4-4e1572a01e4e"
+    },
+    {
+        "question": "Qual das seguintes **afirmações sobre a teoria de Arrhenius** é **incorreta**?",
+        "options": [
+            "A) Ácidos liberam H⁺ em solução aquosa.",
+            "B) Bases liberam OH⁻ em solução aquosa.",
+            "C) Não explica o comportamento ácido-base em solventes não aquosos.",
+            "D) Define ácidos como doadores de pares de elétrons."
+        ],
+        "answer": "D) Define ácidos como doadores de pares de elétrons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Arrhenius",
+            "subtopic": "Limitações da Teoria de Arrhenius"
+        },
+        "id": "236b8531-3075-4213-ab5e-ba2ee2a1b46a"
+    },
+    {
+        "question": "Em uma ligação covalente entre oxigênio e nitrogênio, qual átomo tem maior **eletronegatividade**?",
+        "options": [
+            "A) Oxigênio",
+            "B) Nitrogênio",
+            "C) Ambos têm a mesma eletronegatividade",
+            "D) Depende do estado de oxidação"
+        ],
+        "answer": "A) Oxigênio",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Eletronegatividade"
+        },
+        "id": "bb504c56-a4ce-4f3c-9a3c-274ac4a66875"
+    },
+    {
+        "question": "Qual **número quântico** define a orientação espacial de um orbital?",
+        "options": [
+            "A) n (número quântico principal)",
+            "B) l (número quântico azimutal)",
+            "C) m_l (número quântico magnético)",
+            "D) s (número quântico de spin)"
+        ],
+        "answer": "C) m_l (número quântico magnético)",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Números Quânticos"
+        },
+        "id": "9cc23271-1a48-45f0-ae6e-d2c27ac77528"
+    },
+    {
+        "question": "Qual elemento apresenta maior **energia de ionização**?",
+        "options": [
+            "A) Na",
+            "B) Mg",
+            "C) Al",
+            "D) Si"
+        ],
+        "answer": "D) Si",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "d9f26d6b-ecd3-4e0d-8444-aaf033ca4b0a"
+    },
+    {
+        "question": "Qual é a **ordem crescente de raio atômico** para os elementos: Be, Mg, Ca?",
+        "options": [
+            "A) Be < Mg < Ca",
+            "B) Ca < Mg < Be",
+            "C) Mg < Be < Ca",
+            "D) Be < Ca < Mg"
+        ],
+        "answer": "A) Be < Mg < Ca",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Raio Atômico"
+        },
+        "id": "c2fc4e0f-9699-487c-9b0f-85544a1c5299"
+    },
+    {
+        "question": "Qual **tipo de força intermolecular** é predominante no HF líquido?",
+        "options": [
+            "A) Dipolo-dipolo",
+            "B) Ligações de hidrogênio",
+            "C) Forças de London",
+            "D) Íon-dipolo"
+        ],
+        "answer": "B) Ligações de hidrogênio",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Forças Intermoleculares",
+            "subtopic": "Ligações de Hidrogênio"
+        },
+        "id": "6f267df5-149e-45ee-a066-a3c4ffafbf24"
+    },
+    {
+        "question": "Qual das seguintes **espécies é isoeletrônica** com o íon O²⁻?",
+        "options": [
+            "A) F⁻",
+            "B) Ne",
+            "C) Na⁺",
+            "D) Mg²⁺"
+        ],
+        "answer": "A) F⁻",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Íons Isoeletrônicos"
+        },
+        "id": "7310822b-183f-45ff-b878-b80e69e4b309"
+    },
+    {
+        "question": "Em uma reação ácido-base de Brønsted-Lowry, qual espécie é o **par conjugado** do HCO₃⁻?",
+        "options": [
+            "A) CO₃²⁻",
+            "B) H₂CO₃",
+            "C) H₃O⁺",
+            "D) OH⁻"
+        ],
+        "answer": "B) H₂CO₃",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Par Conjugado Ácido-Base"
+        },
+        "id": "53cd3378-74ff-42d6-bb53-19ba146845d4"
+    },
+    {
+        "question": "Qual composto apresenta **ligação iônica** e **geometria cristalina cúbica**?",
+        "options": [
+            "A) NaCl",
+            "B) CO₂",
+            "C) SiO₂",
+            "D) H₂O"
+        ],
+        "answer": "A) NaCl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Propriedades dos Compostos Iônicos"
+        },
+        "id": "abd98b3a-1eca-4893-a230-ad7c8ed1b397"
+    },
+    {
+        "question": "Qual é a **ordem de energia de ligação** para as moléculas: O₂, O₂⁻, O₂⁺?",
+        "options": [
+            "A) O₂⁺ > O₂ > O₂⁻",
+            "B) O₂⁻ > O₂ > O₂⁺",
+            "C) O₂ > O₂⁺ > O₂⁻",
+            "D) O₂⁺ > O₂⁻ > O₂"
+        ],
+        "answer": "A) O₂⁺ > O₂ > O₂⁻",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Energia de ligação"
+        },
+        "id": "14d7f38c-d29a-4454-912c-f5f2f08d58d5"
+    },
+    {
+        "question": "Qual **subnível eletrônico** é preenchido após o subnível 4p?",
+        "options": [
+            "A) 5s",
+            "B) 4d",
+            "C) 5p",
+            "D) 4f"
+        ],
+        "answer": "A) 5s",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio de Aufbau"
+        },
+        "id": "bb107411-c733-41e8-abbd-df7a3e5a06e6"
+    },
+    {
+        "question": "Ao analisar um composto iônico com fórmula MX₂, qual das seguintes propriedades é **mais influenciada** pela energia reticular?",
+        "options": [
+            "A) Solubilidade em solventes polares",
+            "B) Ponto de fusão",
+            "C) Condutividade elétrica no estado sólido",
+            "D) Maleabilidade"
+        ],
+        "answer": "B) Ponto de fusão",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "ec729f0d-7c07-4b31-942c-b9828c350cf8"
+    },
+    {
+        "question": "Um elemento de transição forma um íon com configuração eletrônica [Ar] 3d⁶. Qual é a carga desse íon se o elemento neutro possui número atômico 26?",
+        "options": [
+            "A) +2",
+            "B) +3",
+            "C) +4",
+            "D) +1"
+        ],
+        "answer": "A) +2",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Configuração eletrônica de elementos de transição"
+        },
+        "id": "d41f2e8d-7e17-4518-9ecd-b0019e6ae176"
+    },
+    {
+        "question": "Qual das seguintes moléculas **viola a regra do octeto** e apresenta **hipervalência**?",
+        "options": [
+            "A) SF₆",
+            "B) CO₂",
+            "C) NH₃",
+            "D) H₂O"
+        ],
+        "answer": "A) SF₆",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Regra do Octeto e Exceções",
+            "subtopic": "Moléculas Hipervalentes"
+        },
+        "id": "2d60305f-2f7e-4b90-a3c5-8244fe8bf6f1"
+    },
+    {
+        "question": "Um tampão é preparado com 0,1 mol/L de HCOOH (Ka = 1,8 × 10⁻⁴) e 0,15 mol/L de HCOONa. Qual é o pH dessa solução?",
+        "options": [
+            "A) 3,74",
+            "B) 4,05",
+            "C) 3,92",
+            "D) 4,28"
+        ],
+        "answer": "A) 3,74",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Equilíbrios Ácido-Base",
+            "subtopic": "Soluções Tampão"
+        },
+        "id": "69984993-37fe-451d-8204-72568e464b68"
+    },
+    {
+        "question": "Qual par de elementos são **isótonos**, sabendo que o elemento X tem Z = 20 e A = 40, e o elemento Y tem Z = 18 e A = 38?",
+        "options": [
+            "A) X e Y",
+            "B) X e um isótopo de Y",
+            "C) Y e um isóbaro de X",
+            "D) Nenhum dos pares"
+        ],
+        "answer": "A) X e Y",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Número Atômico e Massa",
+            "subtopic": "Isótonos"
+        },
+        "id": "cd0f8bac-4ac1-4d80-97c4-c7258c43775a"
+    },
+    {
+        "question": "Em uma reação onde NH₃ atua como base de Lewis, qual espécie é formada?",
+        "options": [
+            "A) NH₄⁺",
+            "B) NH₂⁻",
+            "C) Complexo de coordenação",
+            "D) NH₃ não reage como base de Lewis"
+        ],
+        "answer": "C) Complexo de coordenação",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Aplicação na Formação de Complexos"
+        },
+        "id": "eabb0ba5-155f-4918-a7ca-a97ee408079d"
+    },
+    {
+        "question": "Qual das seguintes **tendências periódicas** é explicada pela **carga nuclear efetiva**?",
+        "options": [
+            "A) Aumento do raio atômico em um grupo",
+            "B) Diminuição da energia de ionização em um período",
+            "C) Aumento da afinidade eletrônica em um período",
+            "D) Redução do caráter metálico em um grupo"
+        ],
+        "answer": "C) Aumento da afinidade eletrônica em um período",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Tendências Periódicas"
+        },
+        "id": "ce7031bb-d4d0-4fa4-b8d2-f8cccc6c4b60"
+    },
+    {
+        "question": "Qual molécula apresenta **momento dipolar resultante diferente de zero**?",
+        "options": [
+            "A) CO₂",
+            "B) BF₃",
+            "C) CH₃Cl",
+            "D) CCl₄"
+        ],
+        "answer": "C) CH₃Cl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "f62d98e8-7caa-4526-b415-558ecb58f06b"
+    },
+    {
+        "question": "Qual é a **geometria molecular** do íon SF₄, considerando a teoria VSEPR?",
+        "options": [
+            "A) Bipiramidal trigonal",
+            "B) Tetraédrica",
+            "C) Forma de gangorra",
+            "D) Pirâmide trigonal"
+        ],
+        "answer": "A) Bipiramidal trigonal",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Bipiramidal Trigonal"
+        },
+        "id": "965981af-345f-4554-9977-fd0ef300208e"
+    },
+    {
+        "question": "Qual das seguintes **afirmações sobre a teoria de Arrhenius** é **incorreta**?",
+        "options": [
+            "A) Ácidos liberam H⁺ em solução aquosa.",
+            "B) Bases liberam OH⁻ em solução aquosa.",
+            "C) Não explica o comportamento ácido-base em solventes não aquosos.",
+            "D) Define ácidos como doadores de pares de elétrons."
+        ],
+        "answer": "D) Define ácidos como doadores de pares de elétrons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Arrhenius",
+            "subtopic": "Limitações da Teoria de Arrhenius"
+        },
+        "id": "9918c2cf-d1c1-44d9-b39f-a2a46a8cae44"
+    },
+    {
+        "question": "Em uma ligação covalente entre oxigênio e nitrogênio, qual átomo tem maior **eletronegatividade**?",
+        "options": [
+            "A) Oxigênio",
+            "B) Nitrogênio",
+            "C) Ambos têm a mesma eletronegatividade",
+            "D) Depende do estado de oxidação"
+        ],
+        "answer": "A) Oxigênio",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Eletronegatividade"
+        },
+        "id": "0919763a-5c51-4381-8a55-df62a20ee339"
+    },
+    {
+        "question": "Qual **número quântico** define a orientação espacial de um orbital?",
+        "options": [
+            "A) n (número quântico principal)",
+            "B) l (número quântico azimutal)",
+            "C) m_l (número quântico magnético)",
+            "D) s (número quântico de spin)"
+        ],
+        "answer": "C) m_l (número quântico magnético)",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Números Quânticos"
+        },
+        "id": "7538352a-b128-4af3-9c66-300cb517e96c"
+    },
+    {
+        "question": "Qual elemento apresenta maior **energia de ionização**?",
+        "options": [
+            "A) Na",
+            "B) Mg",
+            "C) Al",
+            "D) Si"
+        ],
+        "answer": "D) Si",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "7cae7a78-8b38-4c67-9ee6-01cc4b20d7dd"
+    },
+    {
+        "question": "Qual é a **ordem crescente de raio atômico** para os elementos: Be, Mg, Ca?",
+        "options": [
+            "A) Be < Mg < Ca",
+            "B) Ca < Mg < Be",
+            "C) Mg < Be < Ca",
+            "D) Be < Ca < Mg"
+        ],
+        "answer": "A) Be < Mg < Ca",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Raio Atômico"
+        },
+        "id": "020c828f-954e-4347-b3e0-f12a9f766f70"
+    },
+    {
+        "question": "Qual **tipo de força intermolecular** é predominante no HF líquido?",
+        "options": [
+            "A) Dipolo-dipolo",
+            "B) Ligações de hidrogênio",
+            "C) Forças de London",
+            "D) Íon-dipolo"
+        ],
+        "answer": "B) Ligações de hidrogênio",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Forças Intermoleculares",
+            "subtopic": "Ligações de Hidrogênio"
+        },
+        "id": "37ec16bf-673f-4f52-b58a-e07c4dd69c57"
+    },
+    {
+        "question": "Qual das seguintes **espécies é isoeletrônica** com o íon O²⁻?",
+        "options": [
+            "A) F⁻",
+            "B) Ne",
+            "C) Na⁺",
+            "D) Mg²⁺"
+        ],
+        "answer": "A) F⁻",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Íons Isoeletrônicos"
+        },
+        "id": "ad7b2e65-35a2-4362-a31c-b3d04ab7e56b"
+    },
+    {
+        "question": "Em uma reação ácido-base de Brønsted-Lowry, qual espécie é o **par conjugado** do HCO₃⁻?",
+        "options": [
+            "A) CO₃²⁻",
+            "B) H₂CO₃",
+            "C) H₃O⁺",
+            "D) OH⁻"
+        ],
+        "answer": "B) H₂CO₃",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Par Conjugado Ácido-Base"
+        },
+        "id": "7144e9c1-d629-44be-bc68-0081cc25e0e0"
+    },
+    {
+        "question": "Qual composto apresenta **ligação iônica** e **geometria cristalina cúbica**?",
+        "options": [
+            "A) NaCl",
+            "B) CO₂",
+            "C) SiO₂",
+            "D) H₂O"
+        ],
+        "answer": "A) NaCl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Propriedades dos Compostos Iônicos"
+        },
+        "id": "d32c0747-4965-4710-a207-c762a8d324c2"
+    },
+    {
+        "question": "Qual é a **ordem de energia de ligação** para as moléculas: O₂, O₂⁻, O₂⁺?",
+        "options": [
+            "A) O₂⁺ > O₂ > O₂⁻",
+            "B) O₂⁻ > O₂ > O₂⁺",
+            "C) O₂ > O₂⁺ > O₂⁻",
+            "D) O₂⁺ > O₂⁻ > O₂"
+        ],
+        "answer": "A) O₂⁺ > O₂ > O₂⁻",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Energia de ligação"
+        },
+        "id": "655bb316-759e-480a-a7ec-5a02b8f2fccb"
+    },
+    {
+        "question": "Qual **subnível eletrônico** é preenchido após o subnível 4p?",
+        "options": [
+            "A) 5s",
+            "B) 4d",
+            "C) 5p",
+            "D) 4f"
+        ],
+        "answer": "A) 5s",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio de Aufbau"
+        },
+        "id": "30e6dd24-3f81-4313-baaa-f659b71c6592"
+    },
+    {
+        "question": "Ao analisar um composto iônico com fórmula MX₂, qual das seguintes propriedades é **mais influenciada** pela energia reticular?",
+        "options": [
+            "A) Solubilidade em solventes polares",
+            "B) Ponto de fusão",
+            "C) Condutividade elétrica no estado sólido",
+            "D) Maleabilidade"
+        ],
+        "answer": "B) Ponto de fusão",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "6dfa86c3-f134-4c0e-8b10-139b7cc2813c"
+    },
+    {
+        "question": "Um elemento de transição forma um íon com configuração eletrônica [Ar] 3d⁶. Qual é a carga desse íon se o elemento neutro possui número atômico 26?",
+        "options": [
+            "A) +2",
+            "B) +3",
+            "C) +4",
+            "D) +1"
+        ],
+        "answer": "A) +2",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Configuração eletrônica de elementos de transição"
+        },
+        "id": "28a40826-d27d-4d0f-b2d1-c6af644e84cb"
+    },
+    {
+        "question": "Qual das seguintes moléculas **viola a regra do octeto** e apresenta **hipervalência**?",
+        "options": [
+            "A) SF₆",
+            "B) CO₂",
+            "C) NH₃",
+            "D) H₂O"
+        ],
+        "answer": "A) SF₆",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Regra do Octeto e Exceções",
+            "subtopic": "Moléculas Hipervalentes"
+        },
+        "id": "c76c6f94-6272-436f-a025-f11dd077c258"
+    },
+    {
+        "question": "Um tampão é preparado com 0,1 mol/L de HCOOH (Ka = 1,8 × 10⁻⁴) e 0,15 mol/L de HCOONa. Qual é o pH dessa solução?",
+        "options": [
+            "A) 3,74",
+            "B) 4,05",
+            "C) 3,92",
+            "D) 4,28"
+        ],
+        "answer": "A) 3,74",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Equilíbrios Ácido-Base",
+            "subtopic": "Soluções Tampão"
+        },
+        "id": "26b719d7-c97d-4047-9814-5d4b33f71cb2"
+    },
+    {
+        "question": "Qual par de elementos são **isótonos**, sabendo que o elemento X tem Z = 20 e A = 40, e o elemento Y tem Z = 18 e A = 38?",
+        "options": [
+            "A) X e Y",
+            "B) X e um isótopo de Y",
+            "C) Y e um isóbaro de X",
+            "D) Nenhum dos pares"
+        ],
+        "answer": "A) X e Y",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Número Atômico e Massa",
+            "subtopic": "Isótonos"
+        },
+        "id": "5e9fd183-8db7-4666-a90a-bf456c71c472"
+    },
+    {
+        "question": "Em uma reação onde NH₃ atua como base de Lewis, qual espécie é formada?",
+        "options": [
+            "A) NH₄⁺",
+            "B) NH₂⁻",
+            "C) Complexo de coordenação",
+            "D) NH₃ não reage como base de Lewis"
+        ],
+        "answer": "C) Complexo de coordenação",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Aplicação na Formação de Complexos"
+        },
+        "id": "279f9239-67bb-4d49-b0ee-15f0d8ced56c"
+    },
+    {
+        "question": "Qual das seguintes **tendências periódicas** é explicada pela **carga nuclear efetiva**?",
+        "options": [
+            "A) Aumento do raio atômico em um grupo",
+            "B) Diminuição da energia de ionização em um período",
+            "C) Aumento da afinidade eletrônica em um período",
+            "D) Redução do caráter metálico em um grupo"
+        ],
+        "answer": "C) Aumento da afinidade eletrônica em um período",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Tendências Periódicas"
+        },
+        "id": "411f899b-6efb-4c4d-89eb-6a85944c22fd"
+    },
+    {
+        "question": "Qual molécula apresenta **momento dipolar resultante diferente de zero**?",
+        "options": [
+            "A) CO₂",
+            "B) BF₃",
+            "C) CH₃Cl",
+            "D) CCl₄"
+        ],
+        "answer": "C) CH₃Cl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "cb8a7cae-f460-4a6c-8e3e-2c0fd56c202b"
+    },
+    {
+        "question": "Qual é a **geometria molecular** do íon SF₄, considerando a teoria VSEPR?",
+        "options": [
+            "A) Bipiramidal trigonal",
+            "B) Tetraédrica",
+            "C) Forma de gangorra",
+            "D) Pirâmide trigonal"
+        ],
+        "answer": "A) Bipiramidal trigonal",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Bipiramidal Trigonal"
+        },
+        "id": "d635cd70-2015-43f7-9ed0-3b0f65b1adce"
+    },
+    {
+        "question": "Qual das seguintes **afirmações sobre a teoria de Arrhenius** é **incorreta**?",
+        "options": [
+            "A) Ácidos liberam H⁺ em solução aquosa.",
+            "B) Bases liberam OH⁻ em solução aquosa.",
+            "C) Não explica o comportamento ácido-base em solventes não aquosos.",
+            "D) Define ácidos como doadores de pares de elétrons."
+        ],
+        "answer": "D) Define ácidos como doadores de pares de elétrons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Arrhenius",
+            "subtopic": "Limitações da Teoria de Arrhenius"
+        },
+        "id": "a9614c0f-9f78-402e-93fd-9e436a264f55"
+    },
+    {
+        "question": "Em uma ligação covalente entre oxigênio e nitrogênio, qual átomo tem maior **eletronegatividade**?",
+        "options": [
+            "A) Oxigênio",
+            "B) Nitrogênio",
+            "C) Ambos têm a mesma eletronegatividade",
+            "D) Depende do estado de oxidação"
+        ],
+        "answer": "A) Oxigênio",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Eletronegatividade"
+        },
+        "id": "aaa1b48b-a827-4553-add4-e60da9e0f4c1"
+    },
+    {
+        "question": "Qual **número quântico** define a orientação espacial de um orbital?",
+        "options": [
+            "A) n (número quântico principal)",
+            "B) l (número quântico azimutal)",
+            "C) m_l (número quântico magnético)",
+            "D) s (número quântico de spin)"
+        ],
+        "answer": "C) m_l (número quântico magnético)",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Números Quânticos"
+        },
+        "id": "08e2b776-6615-4e7e-8204-b69e8e7a73cd"
+    },
+    {
+        "question": "Qual elemento apresenta maior **energia de ionização**?",
+        "options": [
+            "A) Na",
+            "B) Mg",
+            "C) Al",
+            "D) Si"
+        ],
+        "answer": "D) Si",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "a1345c27-67a2-438b-85be-fad711d3868d"
+    },
+    {
+        "question": "Qual é a **ordem crescente de raio atômico** para os elementos: Be, Mg, Ca?",
+        "options": [
+            "A) Be < Mg < Ca",
+            "B) Ca < Mg < Be",
+            "C) Mg < Be < Ca",
+            "D) Be < Ca < Mg"
+        ],
+        "answer": "A) Be < Mg < Ca",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Raio Atômico"
+        },
+        "id": "dfb911a4-7710-4714-ac36-5f3e42d85b8a"
+    },
+    {
+        "question": "Qual **tipo de força intermolecular** é predominante no HF líquido?",
+        "options": [
+            "A) Dipolo-dipolo",
+            "B) Ligações de hidrogênio",
+            "C) Forças de London",
+            "D) Íon-dipolo"
+        ],
+        "answer": "B) Ligações de hidrogênio",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Forças Intermoleculares",
+            "subtopic": "Ligações de Hidrogênio"
+        },
+        "id": "f136aa11-ae0f-46d3-ad41-8c6e5021f800"
+    },
+    {
+        "question": "Qual das seguintes **espécies é isoeletrônica** com o íon O²⁻?",
+        "options": [
+            "A) F⁻",
+            "B) Ne",
+            "C) Na⁺",
+            "D) Mg²⁺"
+        ],
+        "answer": "A) F⁻",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Íons Isoeletrônicos"
+        },
+        "id": "67a8673a-0b9b-4e99-a902-6557b79e46bf"
+    },
+    {
+        "question": "Em uma reação ácido-base de Brønsted-Lowry, qual espécie é o **par conjugado** do HCO₃⁻?",
+        "options": [
+            "A) CO₃²⁻",
+            "B) H₂CO₃",
+            "C) H₃O⁺",
+            "D) OH⁻"
+        ],
+        "answer": "B) H₂CO₃",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Par Conjugado Ácido-Base"
+        },
+        "id": "9438665f-db32-43db-9aae-f6b114f9bf81"
+    },
+    {
+        "question": "Qual composto apresenta **ligação iônica** e **geometria cristalina cúbica**?",
+        "options": [
+            "A) NaCl",
+            "B) CO₂",
+            "C) SiO₂",
+            "D) H₂O"
+        ],
+        "answer": "A) NaCl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Propriedades dos Compostos Iônicos"
+        },
+        "id": "86c8a391-286d-4ced-9031-f64f167418dc"
+    },
+    {
+        "question": "Qual é a **ordem de energia de ligação** para as moléculas: O₂, O₂⁻, O₂⁺?",
+        "options": [
+            "A) O₂⁺ > O₂ > O₂⁻",
+            "B) O₂⁻ > O₂ > O₂⁺",
+            "C) O₂ > O₂⁺ > O₂⁻",
+            "D) O₂⁺ > O₂⁻ > O₂"
+        ],
+        "answer": "A) O₂⁺ > O₂ > O₂⁻",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Energia de ligação"
+        },
+        "id": "f511354c-763c-4db3-bf55-0b1e48301322"
+    },
+    {
+        "question": "Qual **subnível eletrônico** é preenchido após o subnível 4p?",
+        "options": [
+            "A) 5s",
+            "B) 4d",
+            "C) 5p",
+            "D) 4f"
+        ],
+        "answer": "A) 5s",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio de Aufbau"
+        },
+        "id": "786cb17e-cba4-455b-a222-2d0e3fef14eb"
+    },
+    {
+        "question": "Por que a energia de ionização geralmente aumenta ao longo de um período na tabela periódica?",
+        "options": [
+            "A) Devido ao aumento do raio atômico.",
+            "B) Devido ao aumento da carga nuclear efetiva.",
+            "C) Devido à maior blindagem eletrônica.",
+            "D) Devido à diminuição da eletronegatividade."
+        ],
+        "answer": "B) Devido ao aumento da carga nuclear efetiva.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "b48c7dee-f842-406e-a19e-3d08bb5761a4"
+    },
+    {
+        "question": "Como a polaridade de uma ligação covalente influencia a solubilidade de uma substância em água?",
+        "options": [
+            "A) Substâncias polares dissolvem-se melhor em solventes apolares.",
+            "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+            "C) A polaridade não afeta a solubilidade.",
+            "D) Apenas íons se dissolvem em água."
+        ],
+        "answer": "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "b4556d78-ce98-4c49-96a1-61d67db1891a"
+    },
+    {
+        "question": "Por que a geometria molecular do NH₃ é piramidal e não trigonal plana?",
+        "options": [
+            "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+            "B) Devido à hibridização sp² do nitrogênio.",
+            "C) Porque a molécula segue a regra do octeto estritamente.",
+            "D) Devido à repulsão entre ligações duplas."
+        ],
+        "answer": "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Piramidal"
+        },
+        "id": "1130a670-4dff-4690-9c4e-f709b290fd6e"
+    },
+    {
+        "question": "Qual é a relação entre a força de um ácido de Brønsted-Lowry e a estabilidade de sua base conjugada?",
+        "options": [
+            "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+            "B) Quanto mais fraco o ácido, mais estável é sua base conjugada.",
+            "C) A força do ácido não está relacionada à estabilidade da base conjugada.",
+            "D) A estabilidade da base conjugada depende apenas da concentração."
+        ],
+        "answer": "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Força dos Ácidos e Bases"
+        },
+        "id": "b85e13d0-d94a-40c5-a149-1f4dbeaf7991"
+    },
+    {
+        "question": "Por que os metais alcalinos são altamente reativos?",
+        "options": [
+            "A) Devido à alta energia de ionização.",
+            "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+            "C) Por terem alta afinidade eletrônica.",
+            "D) Devido à formação de ligações covalentes estáveis."
+        ],
+        "answer": "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Estrutura da Tabela Periódica",
+            "subtopic": "Metais e suas características"
+        },
+        "id": "bb1f9aef-5aa5-4d9a-9d41-67c76fccec63"
+    },
+    {
+        "question": "Como a teoria de Lewis amplia o conceito ácido-base em comparação à teoria de Arrhenius?",
+        "options": [
+            "A) Inclui reações em solventes não aquosos e espécies sem prótons.",
+            "B) Limita-se a reações em meio aquoso.",
+            "C) Define ácidos como doadores de íons H⁺.",
+            "D) Ignora a formação de complexos."
+        ],
+        "answer": "A) Inclui reações em solventes não aquosos e espécies sem prótons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Ácido de Lewis"
+        },
+        "id": "e7f41f10-eef4-4586-a217-68efa83f18b5"
+    },
+    {
+        "question": "Por que moléculas com geometria linear podem ser apolares?",
+        "options": [
+            "A) Porque os dipolos se cancelam devido à simetria.",
+            "B) Porque possuem ligações iônicas.",
+            "C) Devido à presença de pares de elétrons livres.",
+            "D) Porque todas as ligações são não polares."
+        ],
+        "answer": "A) Porque os dipolos se cancelam devido à simetria.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Polaridade Molecular"
+        },
+        "id": "626db35b-36c9-4600-9ebe-4d57a9902c29"
+    },
+    {
+        "question": "Qual é o papel do princípio de Pauli na distribuição eletrônica?",
+        "options": [
+            "A) Define a ordem de preenchimento dos orbitais.",
+            "B) Estabelece que dois elétrons no mesmo orbital devem ter spins opostos.",
+            "C) Explica a formação de ligações covalentes.",
+            "D) Determina a geometria molecular."
+        ],
+        "answer": "B) Estabelece que dois elétrons no mesmo orbital devem ter spins opostos.",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio da Exclusão de Pauli"
+        },
+        "id": "96b0f0eb-02ad-4c19-aa64-de6257b5d6b9"
+    },
+    {
+        "question": "Por que a energia reticular de MgO é maior que a de NaCl?",
+        "options": [
+            "A) Devido às cargas menores nos íons de MgO.",
+            "B) Devido às cargas maiores e tamanho iônico menor em MgO.",
+            "C) Porque NaCl tem estrutura cristalina mais complexa.",
+            "D) Devido à maior polarização em NaCl."
+        ],
+        "answer": "B) Devido às cargas maiores e tamanho iônico menor em MgO.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "fc37866e-771a-4f9c-a43e-ef7f2cc93f41"
+    },
+    {
+        "question": "Como a hibridização explica a geometria tetraédrica do CH₄?",
+        "options": [
+            "A) O carbono utiliza orbitais sp³, resultando em ângulos de 109,5°.",
+            "B) O carbono utiliza orbitais sp², formando ligações duplas.",
+            "C) A hibridização sp não influencia a geometria.",
+            "D) A geometria é determinada apenas pela repulsão dos elétrons."
+        ],
+        "answer": "A) O carbono utiliza orbitais sp³, resultando em ângulos de 109,5°.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Estruturas de Lewis"
+        },
+        "id": "25375bb8-0e24-4a21-9764-a805daadc2a2"
+    },
+    {
+        "question": "Por que a energia de ionização geralmente aumenta ao longo de um período na tabela periódica?",
+        "options": [
+            "A) Devido ao aumento do raio atômico.",
+            "B) Devido ao aumento da carga nuclear efetiva.",
+            "C) Devido à maior blindagem eletrônica.",
+            "D) Devido à diminuição da eletronegatividade."
+        ],
+        "answer": "B) Devido ao aumento da carga nuclear efetiva.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "283b45da-d2b7-4bff-a6ca-64274a08528d"
+    },
+    {
+        "question": "Como a polaridade de uma ligação covalente influencia a solubilidade de uma substância em água?",
+        "options": [
+            "A) Substâncias polares dissolvem-se melhor em solventes apolares.",
+            "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+            "C) A polaridade não afeta a solubilidade.",
+            "D) Apenas íons se dissolvem em água."
+        ],
+        "answer": "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "e89e3f94-3f83-471d-a2bc-1c73580c137f"
+    },
+    {
+        "question": "Por que a geometria molecular do NH₃ é piramidal e não trigonal plana?",
+        "options": [
+            "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+            "B) Devido à hibridização sp² do nitrogênio.",
+            "C) Porque a molécula segue a regra do octeto estritamente.",
+            "D) Devido à repulsão entre ligações duplas."
+        ],
+        "answer": "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Piramidal"
+        },
+        "id": "04c42e57-571c-42b4-a2e6-79c565fc1d6a"
+    },
+    {
+        "question": "Qual é a relação entre a força de um ácido de Brønsted-Lowry e a estabilidade de sua base conjugada?",
+        "options": [
+            "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+            "B) Quanto mais fraco o ácido, mais estável é sua base conjugada.",
+            "C) A força do ácido não está relacionada à estabilidade da base conjugada.",
+            "D) A estabilidade da base conjugada depende apenas da concentração."
+        ],
+        "answer": "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Força dos Ácidos e Bases"
+        },
+        "id": "3e543698-5237-427f-9c71-bc6e1ff14de4"
+    },
+    {
+        "question": "Por que os metais alcalinos são altamente reativos?",
+        "options": [
+            "A) Devido à alta energia de ionização.",
+            "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+            "C) Por terem alta afinidade eletrônica.",
+            "D) Devido à formação de ligações covalentes estáveis."
+        ],
+        "answer": "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Estrutura da Tabela Periódica",
+            "subtopic": "Metais e suas características"
+        },
+        "id": "118032e4-db8d-4060-988f-19a2d597c9cd"
+    },
+    {
+        "question": "Como a teoria de Lewis amplia o conceito ácido-base em comparação à teoria de Arrhenius?",
+        "options": [
+            "A) Inclui reações em solventes não aquosos e espécies sem prótons.",
+            "B) Limita-se a reações em meio aquoso.",
+            "C) Define ácidos como doadores de íons H⁺.",
+            "D) Ignora a formação de complexos."
+        ],
+        "answer": "A) Inclui reações em solventes não aquosos e espécies sem prótons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Ácido de Lewis"
+        },
+        "id": "e3991fa7-0d3e-4e6e-ba25-47c4cff9fc80"
+    },
+    {
+        "question": "Por que moléculas com geometria linear podem ser apolares?",
+        "options": [
+            "A) Porque os dipolos se cancelam devido à simetria.",
+            "B) Porque possuem ligações iônicas.",
+            "C) Devido à presença de pares de elétrons livres.",
+            "D) Porque todas as ligações são não polares."
+        ],
+        "answer": "A) Porque os dipolos se cancelam devido à simetria.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Polaridade Molecular"
+        },
+        "id": "14d8b139-940d-4a60-8f46-ed9051a35c2e"
+    },
+    {
+        "question": "Por que a energia reticular de MgO é maior que a de NaCl?",
+        "options": [
+            "A) Devido às cargas menores nos íons de MgO.",
+            "B) Devido às cargas maiores e tamanho iônico menor em MgO.",
+            "C) Porque NaCl tem estrutura cristalina mais complexa.",
+            "D) Devido à maior polarização em NaCl."
+        ],
+        "answer": "B) Devido às cargas maiores e tamanho iônico menor em MgO.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "9f21264c-5dd7-49fd-adff-1cef675a911f"
+    },
+    {
+        "question": "Como a hibridização explica a geometria tetraédrica do CH₄?",
+        "options": [
+            "A) O carbono utiliza orbitais sp³, resultando em ângulos de 109,5°.",
+            "B) O carbono utiliza orbitais sp², formando ligações duplas.",
+            "C) A hibridização sp não influencia a geometria.",
+            "D) A geometria é determinada apenas pela repulsão dos elétrons."
+        ],
+        "answer": "A) O carbono utiliza orbitais sp³, resultando em ângulos de 109,5°.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Estruturas de Lewis"
+        },
+        "id": "0a05d7fd-babe-4481-a75b-e5657550acbb"
+    },
+    {
+        "question": "Por que a energia de ionização geralmente aumenta ao longo de um período na tabela periódica?",
+        "options": [
+            "A) Devido ao aumento do raio atômico.",
+            "B) Devido ao aumento da carga nuclear efetiva.",
+            "C) Devido à maior blindagem eletrônica.",
+            "D) Devido à diminuição da eletronegatividade."
+        ],
+        "answer": "B) Devido ao aumento da carga nuclear efetiva.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "c9f69608-11a4-408f-ae22-89666e4b3ef3"
+    },
+    {
+        "question": "Como a polaridade de uma ligação covalente influencia a solubilidade de uma substância em água?",
+        "options": [
+            "A) Substâncias polares dissolvem-se melhor em solventes apolares.",
+            "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+            "C) A polaridade não afeta a solubilidade.",
+            "D) Apenas íons se dissolvem em água."
+        ],
+        "answer": "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "a7af6a69-bbf2-4aa1-9a79-5cbcb3d74d04"
+    },
+    {
+        "question": "Por que a geometria molecular do NH₃ é piramidal e não trigonal plana?",
+        "options": [
+            "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+            "B) Devido à hibridização sp² do nitrogênio.",
+            "C) Porque a molécula segue a regra do octeto estritamente.",
+            "D) Devido à repulsão entre ligações duplas."
+        ],
+        "answer": "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Piramidal"
+        },
+        "id": "2230e5df-d5b5-4996-b37a-bf910af7a7dd"
+    },
+    {
+        "question": "Qual é a relação entre a força de um ácido de Brønsted-Lowry e a estabilidade de sua base conjugada?",
+        "options": [
+            "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+            "B) Quanto mais fraco o ácido, mais estável é sua base conjugada.",
+            "C) A força do ácido não está relacionada à estabilidade da base conjugada.",
+            "D) A estabilidade da base conjugada depende apenas da concentração."
+        ],
+        "answer": "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Força dos Ácidos e Bases"
+        },
+        "id": "c4f7ecee-35be-41c2-98a0-3c5f7e8613fd"
+    },
+    {
+        "question": "Por que os metais alcalinos são altamente reativos?",
+        "options": [
+            "A) Devido à alta energia de ionização.",
+            "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+            "C) Por terem alta afinidade eletrônica.",
+            "D) Devido à formação de ligações covalentes estáveis."
+        ],
+        "answer": "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Estrutura da Tabela Periódica",
+            "subtopic": "Metais e suas características"
+        },
+        "id": "aea42a4b-3470-4e1e-abbb-579fcce02d81"
+    },
+    {
+        "question": "Como a teoria de Lewis amplia o conceito ácido-base em comparação à teoria de Arrhenius?",
+        "options": [
+            "A) Inclui reações em solventes não aquosos e espécies sem prótons.",
+            "B) Limita-se a reações em meio aquoso.",
+            "C) Define ácidos como doadores de íons H⁺.",
+            "D) Ignora a formação de complexos."
+        ],
+        "answer": "A) Inclui reações em solventes não aquosos e espécies sem prótons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Ácido de Lewis"
+        },
+        "id": "477599b2-d53b-440f-8622-228aa111114e"
+    },
+    {
+        "question": "Por que moléculas com geometria linear podem ser apolares?",
+        "options": [
+            "A) Porque os dipolos se cancelam devido à simetria.",
+            "B) Porque possuem ligações iônicas.",
+            "C) Devido à presença de pares de elétrons livres.",
+            "D) Porque todas as ligações são não polares."
+        ],
+        "answer": "A) Porque os dipolos se cancelam devido à simetria.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Polaridade Molecular"
+        },
+        "id": "8971ba91-5d61-465d-8ac1-4b42bf295151"
+    },
+    {
+        "question": "Por que a energia reticular de MgO é maior que a de NaCl?",
+        "options": [
+            "A) Devido às cargas menores nos íons de MgO.",
+            "B) Devido às cargas maiores e tamanho iônico menor em MgO.",
+            "C) Porque NaCl tem estrutura cristalina mais complexa.",
+            "D) Devido à maior polarização em NaCl."
+        ],
+        "answer": "B) Devido às cargas maiores e tamanho iônico menor em MgO.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "7b1b1a2b-4bcd-4e6a-99f7-4cefdcafdec2"
+    },
+    {
+        "question": "Como a hibridização explica a geometria tetraédrica do CH₄?",
+        "options": [
+            "A) O carbono utiliza orbitais sp³, resultando em ângulos de 109,5°.",
+            "B) O carbono utiliza orbitais sp², formando ligações duplas.",
+            "C) A hibridização sp não influencia a geometria.",
+            "D) A geometria é determinada apenas pela repulsão dos elétrons."
+        ],
+        "answer": "A) O carbono utiliza orbitais sp³, resultando em ângulos de 109,5°.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Estruturas de Lewis"
+        },
+        "id": "22bd0f93-f792-4f22-a2be-fa971f6a780a"
+    },
+    {
+        "id": "776577c4-fad9-43b4-a85b-33b125fd2123",
+        "question": "Qual a massa atômica de um elemento que possui 30 nêutrons e 26 prótons",
+        "options": [
+            "30 u",
+            "26 u",
+            "60 u",
+            "56 u"
+        ],
+        "answer": "56 u",
+        "tags": {
+            "content": "Estrutura da Matéria",
+            "topic": "Estrutura Atômica",
+            "subtopic": "Massa Atômica"
+        }
+    },
+    {
+        "id": "576ca72e-e016-4e65-8a5c-af772bd60561",
+        "question": "Qual é o elemento químico que possui um isótopo possui massa 56 u e 30 nêutrons?",
+        "options": [
+            "Ferro",
+            "Cobalto",
+            "Zinco",
+            "Vanádio"
+        ],
+        "answer": "Ferro",
+        "tags": {
+            "content": "Estrutura da Matéria",
+            "topic": "Estrutura Atômica",
+            "subtopic": ""
+        }
+    },
+    {
+        "id": "f3179584-3954-4095-b5c3-040d10a62e60",
+        "question": "",
+        "options": [
+            "Ferro",
+            "Cobalto",
+            "Zinco",
+            "Vanádio"
+        ],
+        "answer": "Ferro",
+        "tags": {
+            "content": "",
+            "topic": "",
+            "subtopic": ""
+        }
+    },
+    {
+        "id": "324bb5e1-fb6a-4684-b6e9-5d011e2441ff",
+        "question": "Qual é o elementos mais abundante no universo?",
+        "options": [
+            "Hidrogênio",
+            "Hélio",
+            "Carbono",
+            "Oxigênio"
+        ],
+        "answer": "Hidrogênio",
+        "tags": {
+            "content": "Estrutura da Matéria",
+            "topic": "Estrutura Atômica",
+            "subtopic": "Elementos Químicos"
+        }
+    }
+]
