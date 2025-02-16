@@ -1,0 +1,178 @@
+[
+    {
+        "question": "Por que a geometria molecular do NH₃ é piramidal e não trigonal plana?",
+        "options": [
+            "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+            "B) Devido à hibridização sp² do nitrogênio.",
+            "C) Porque a molécula segue a regra do octeto estritamente.",
+            "D) Devido à repulsão entre ligações duplas."
+        ],
+        "answer": "A) Devido à presença de um par de elétrons livres no nitrogênio.",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Geometria Molecular",
+            "subtopic": "Geometria Piramidal"
+        },
+        "id": "1130a670-4dff-4690-9c4e-f709b290fd6e"
+    },
+    {
+        "question": "Qual é a relação entre a força de um ácido de Brønsted-Lowry e a estabilidade de sua base conjugada?",
+        "options": [
+            "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+            "B) Quanto mais fraco o ácido, mais estável é sua base conjugada.",
+            "C) A força do ácido não está relacionada à estabilidade da base conjugada.",
+            "D) A estabilidade da base conjugada depende apenas da concentração."
+        ],
+        "answer": "A) Quanto mais forte o ácido, mais estável é sua base conjugada.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Brønsted-Lowry",
+            "subtopic": "Força dos Ácidos e Bases"
+        },
+        "id": "b85e13d0-d94a-40c5-a149-1f4dbeaf7991"
+    },
+    {
+        "question": "Por que os metais alcalinos são altamente reativos?",
+        "options": [
+            "A) Devido à alta energia de ionização.",
+            "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+            "C) Por terem alta afinidade eletrônica.",
+            "D) Devido à formação de ligações covalentes estáveis."
+        ],
+        "answer": "B) Por possuírem um elétron na camada de valência, que é facilmente perdido.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Estrutura da Tabela Periódica",
+            "subtopic": "Metais e suas características"
+        },
+        "id": "bb1f9aef-5aa5-4d9a-9d41-67c76fccec63"
+    },
+    {
+        "question": "Como a polaridade de uma ligação covalente influencia a solubilidade de uma substância em água?",
+        "options": [
+            "A) Substâncias polares dissolvem-se melhor em solventes apolares.",
+            "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+            "C) A polaridade não afeta a solubilidade.",
+            "D) Apenas íons se dissolvem em água."
+        ],
+        "answer": "B) Substâncias polares dissolvem-se melhor em solventes polares.",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Polaridade de Ligações"
+        },
+        "id": "b4556d78-ce98-4c49-96a1-61d67db1891a"
+    },
+    {
+        "question": "Por que a energia de ionização geralmente aumenta ao longo de um período na tabela periódica?",
+        "options": [
+            "A) Devido ao aumento do raio atômico.",
+            "B) Devido ao aumento da carga nuclear efetiva.",
+            "C) Devido à maior blindagem eletrônica.",
+            "D) Devido à diminuição da eletronegatividade."
+        ],
+        "answer": "B) Devido ao aumento da carga nuclear efetiva.",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "b48c7dee-f842-406e-a19e-3d08bb5761a4"
+    },
+    {
+        "question": "Qual **subnível eletrônico** é preenchido após o subnível 4p?",
+        "options": [
+            "A) 5s",
+            "B) 4d",
+            "C) 5p",
+            "D) 4f"
+        ],
+        "answer": "A) 5s",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio de Aufbau"
+        },
+        "id": "786cb17e-cba4-455b-a222-2d0e3fef14eb"
+    },
+    {
+        "question": "Qual é a **ordem de energia de ligação** para as moléculas: O₂, O₂⁻, O₂⁺?",
+        "options": [
+            "A) O₂⁺ > O₂ > O₂⁻",
+            "B) O₂⁻ > O₂ > O₂⁺",
+            "C) O₂ > O₂⁺ > O₂⁻",
+            "D) O₂⁺ > O₂⁻ > O₂"
+        ],
+        "answer": "A) O₂⁺ > O₂ > O₂⁻",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Energia de ligação"
+        },
+        "id": "f511354c-763c-4db3-bf55-0b1e48301322"
+    },
+    {
+        "question": "Qual composto apresenta **ligação iônica** e **geometria cristalina cúbica**?",
+        "options": [
+            "A) NaCl",
+            "B) CO₂",
+            "C) SiO₂",
+            "D) H₂O"
+        ],
+        "answer": "A) NaCl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Propriedades dos Compostos Iônicos"
+        },
+        "id": "86c8a391-286d-4ced-9031-f64f167418dc"
+    },
+    {
+        "question": "Qual composto apresenta **ligação iônica** e **geometria cristalina cúbica**?",
+        "options": [
+            "A) NaCl",
+            "B) CO₂",
+            "C) SiO₂",
+            "D) H₂O"
+        ],
+        "answer": "A) NaCl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Propriedades dos Compostos Iônicos"
+        },
+        "id": "abd98b3a-1eca-4893-a230-ad7c8ed1b397"
+    },
+    {
+        "question": "Qual **subnível eletrônico** é preenchido após o subnível 4p?",
+        "options": [
+            "A) 5s",
+            "B) 4d",
+            "C) 5p",
+            "D) 4f"
+        ],
+        "answer": "A) 5s",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio de Aufbau"
+        },
+        "id": "bb107411-c733-41e8-abbd-df7a3e5a06e6"
+    },
+    {
+        "question": "Em uma ligação covalente entre oxigênio e nitrogênio, qual átomo tem maior **eletronegatividade**?",
+        "options": [
+            "A) Oxigênio",
+            "B) Nitrogênio",
+            "C) Ambos têm a mesma eletronegatividade",
+            "D) Depende do estado de oxidação"
+        ],
+        "answer": "A) Oxigênio",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Eletronegatividade"
+        },
+        "id": "0919763a-5c51-4381-8a55-df62a20ee339"
+    }
+]

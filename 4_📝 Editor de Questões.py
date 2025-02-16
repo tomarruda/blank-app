@@ -2,6 +2,8 @@ import streamlit as st
 import json
 import uuid
 import os
+import pandas as pd
+from datetime import datetime
 
 def load_questions():
     """Carrega as questões do arquivo JSON armazenado localmente."""
@@ -25,7 +27,7 @@ def main():
     st.set_page_config(layout="wide")  # Define a página como wide
     st.title("Gerenciador de Questões de Química")
     
-    tab1, tab2 = st.tabs(["Adicionar Questões", "Gerenciar Questões"])
+    tab1, tab2, = st.tabs(["Adicionar Questões", "Gerenciar Questões"])
     
     with tab1:
         st.header("Adicionar Nova Questão")
@@ -142,6 +144,7 @@ def main():
                     save_questions(questions)
                     st.rerun()
     
+   
 if __name__ == "__main__":
     main()
 

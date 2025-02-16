@@ -292,7 +292,7 @@ def display_confidence_table(df):
 def main():
     st.title("📊 Dashboard de Resultados")
 
-    DIRETORIO_BASE = Path("/workspaces/blank-app/resultados csv/")
+    DIRETORIO_BASE = Path("/workspaces/blank-app/pages/resultados_csv/")
 
     if not DIRETORIO_BASE.exists():
         st.error(f"Diretório não encontrado: {DIRETORIO_BASE}")

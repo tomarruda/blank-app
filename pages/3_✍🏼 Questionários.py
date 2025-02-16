@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Diretório onde os questionários são salvos
-questionarios_dir = "questionários py"
+questionarios_dir = "pages/questionarios_py"
 
 # Obtém a lista de arquivos .py na pasta
 arquivos = [f for f in os.listdir(questionarios_dir) if f.endswith(".py")]
