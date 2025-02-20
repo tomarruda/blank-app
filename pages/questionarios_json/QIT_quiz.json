@@ -1,0 +1,130 @@
+[
+    {
+        "question": "Qual composto apresenta **ligação iônica** e **geometria cristalina cúbica**?",
+        "options": [
+            "A) NaCl",
+            "B) CO₂",
+            "C) SiO₂",
+            "D) H₂O"
+        ],
+        "answer": "A) NaCl",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Propriedades dos Compostos Iônicos"
+        },
+        "id": "abd98b3a-1eca-4893-a230-ad7c8ed1b397"
+    },
+    {
+        "question": "Um elemento de transição forma um íon com configuração eletrônica [Ar] 3d⁶. Qual é a carga desse íon se o elemento neutro possui número atômico 26?",
+        "options": [
+            "A) +2",
+            "B) +3",
+            "C) +4",
+            "D) +1"
+        ],
+        "answer": "A) +2",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Configuração eletrônica de elementos de transição"
+        },
+        "id": "d41f2e8d-7e17-4518-9ecd-b0019e6ae176"
+    },
+    {
+        "question": "Em uma ligação covalente entre oxigênio e nitrogênio, qual átomo tem maior **eletronegatividade**?",
+        "options": [
+            "A) Oxigênio",
+            "B) Nitrogênio",
+            "C) Ambos têm a mesma eletronegatividade",
+            "D) Depende do estado de oxidação"
+        ],
+        "answer": "A) Oxigênio",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Covalente",
+            "subtopic": "Eletronegatividade"
+        },
+        "id": "0919763a-5c51-4381-8a55-df62a20ee339"
+    },
+    {
+        "question": "Ao analisar um composto iônico com fórmula MX₂, qual das seguintes propriedades é **mais influenciada** pela energia reticular?",
+        "options": [
+            "A) Solubilidade em solventes polares",
+            "B) Ponto de fusão",
+            "C) Condutividade elétrica no estado sólido",
+            "D) Maleabilidade"
+        ],
+        "answer": "B) Ponto de fusão",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Ligação Iônica",
+            "subtopic": "Rede Cristalina e Energia Reticular"
+        },
+        "id": "6dfa86c3-f134-4c0e-8b10-139b7cc2813c"
+    },
+    {
+        "question": "Qual das seguintes moléculas **viola a regra do octeto** e apresenta **hipervalência**?",
+        "options": [
+            "A) SF₆",
+            "B) CO₂",
+            "C) NH₃",
+            "D) H₂O"
+        ],
+        "answer": "A) SF₆",
+        "tags": {
+            "content": "Ligações Químicas",
+            "topic": "Regra do Octeto e Exceções",
+            "subtopic": "Moléculas Hipervalentes"
+        },
+        "id": "c76c6f94-6272-436f-a025-f11dd077c258"
+    },
+    {
+        "question": "Em uma reação onde NH₃ atua como base de Lewis, qual espécie é formada?",
+        "options": [
+            "A) NH₄⁺",
+            "B) NH₂⁻",
+            "C) Complexo de coordenação",
+            "D) NH₃ não reage como base de Lewis"
+        ],
+        "answer": "C) Complexo de coordenação",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Lewis",
+            "subtopic": "Aplicação na Formação de Complexos"
+        },
+        "id": "279f9239-67bb-4d49-b0ee-15f0d8ced56c"
+    },
+    {
+        "question": "Qual das seguintes **afirmações sobre a teoria de Arrhenius** é **incorreta**?",
+        "options": [
+            "A) Ácidos liberam H⁺ em solução aquosa.",
+            "B) Bases liberam OH⁻ em solução aquosa.",
+            "C) Não explica o comportamento ácido-base em solventes não aquosos.",
+            "D) Define ácidos como doadores de pares de elétrons."
+        ],
+        "answer": "D) Define ácidos como doadores de pares de elétrons.",
+        "tags": {
+            "content": "Conceitos Ácido-Base",
+            "topic": "Teoria de Arrhenius",
+            "subtopic": "Limitações da Teoria de Arrhenius"
+        },
+        "id": "a9614c0f-9f78-402e-93fd-9e436a264f55"
+    },
+    {
+        "question": "Qual **tipo de força intermolecular** é predominante no HF líquido?",
+        "options": [
+            "A) Dipolo-dipolo",
+            "B) Ligações de hidrogênio",
+            "C) Forças de London",
+            "D) Íon-dipolo"
+        ],
+        "answer": "B) Ligações de hidrogênio",
+        "tags": {
+            "content": "Geometria Molecular e Forças Intermoleculares",
+            "topic": "Forças Intermoleculares",
+            "subtopic": "Ligações de Hidrogênio"
+        },
+        "id": "f136aa11-ae0f-46d3-ad41-8c6e5021f800"
+    }
+]

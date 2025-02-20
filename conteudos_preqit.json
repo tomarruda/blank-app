@@ -1,0 +1,91 @@
+[
+  {
+    "content": "Estrutura Atômica",
+    "topics": [
+      {
+        "topic": "Partículas Subatômicas",
+        "subtopics": ["Prótons", "Nêutrons", "Elétrons"]
+      },
+      {
+        "topic": "Número Atômico e Massa",
+        "subtopics": ["Número Atômico (Z)", "Número de Massa (A)", "Isótopos e sua relevância", "Isóbaros", "Isótonos"]
+      },
+      {
+        "topic": "Distribuição Eletrônica",
+        "subtopics": ["Camadas e Subníveis", "Princípio de Aufbau", "Princípio da Exclusão de Pauli", "Spin Eletrônico", "Regra de Hund", "Números Quânticos"]
+      },
+      {
+        "topic": "Configuração Eletrônica de Íons",
+        "subtopics": ["Cátions e Ânions", "Íons Isoeletrônicos", "Configuração eletrônica de elementos de transição"]
+      }
+    ]
+  },
+  {
+    "content": "Propriedades Periódicas",
+    "topics": [
+      {
+        "topic": "Estrutura da Tabela Periódica",
+        "subtopics": ["Organização em Grupos e Períodos", "Metais e suas características", "Não metais e suas propriedades", "Semimetais e suas aplicações", "Elementos Representativos e de Transição"]
+      },
+      {
+        "topic": "Propriedades Periódicas",
+        "subtopics": ["Raio Atômico", "Energia de Ionização", "Afinidade Eletrônica", "Caráter Metálico", "Tendências Periódicas"]
+      }
+    ]
+  },
+  {
+    "content": "Ligações Químicas",
+    "topics": [
+      {
+        "topic": "Ligação Iônica",
+        "subtopics": ["Transferência de Elétrons", "Formação de Íons Cátions e Ânions", "Rede Cristalina e Energia Reticular", "Propriedades dos Compostos Iônicos"]
+      },
+      {
+        "topic": "Ligação Covalente",
+        "subtopics": ["Estruturas de Lewis", "Compartilhamento de Elétrons", "Ligação Simples, Dupla e Tripla", "Polaridade de Ligações", "Eletronegatividade", "Ligação Dipolar", "Comprimento de Ligação", "Energia de ligação"]
+      },
+      {
+        "topic": "Ligação Metálica",
+        "subtopics": ["Mar de Elétrons", "Condutividade e Maleabilidade", "Ligas Metálicas e suas propriedades"]
+      },
+      {
+        "topic": "Regra do Octeto e Exceções",
+        "subtopics": ["Elementos que obedecem ao Octeto", "Deficiência de Octeto", "Expansão da Camada de Valência", "Moléculas Hipervalentes"]
+      }
+    ]
+  },
+  {
+    "content": "Geometria Molecular e Forças Intermoleculares",
+    "topics": [
+      {
+        "topic": "Geometria Molecular",
+        "subtopics": ["Teoria VSEPR", "Geometria Linear", "Geometria Trigonal Plana", "Geometria Tetraédrica", "Geometria Piramidal", "Geometria Angular", "Geometria Bipiramidal Trigonal", "Geometria Octaédrica", "Polaridade Molecular"]
+      },
+      {
+        "topic": "Forças Intermoleculares",
+        "subtopics": ["Forças Dipolo-Dipolo", "Forças de London (Dipolo Induzido)", "Ligações de Hidrogênio", "Forças Íon-Dipolo", "Influência das Forças Intermoleculares no Ponto de Fusão, Ebulição e Solubilidade"]
+      }
+    ]
+  },
+  {
+    "content": "Conceitos Ácido-Base",
+    "topics": [
+      {
+        "topic": "Teoria de Arrhenius",
+        "subtopics": ["Ácido de Arrhenius", "Bases de Arrhenius", "Limitações da Teoria de Arrhenius"]
+      },
+      {
+        "topic": "Teoria de Brønsted-Lowry",
+        "subtopics": ["Ácido de Brønsted-Lowry", "Base de Brønsted-Lowry", "Par Conjugado Ácido-Base", "Força dos Ácidos e Bases"]
+      },
+{
+        "topic": "Equilíbrios Ácido-Base",
+        "subtopics": ["Constante de Dissociação Ácida (Ka)", "Constante de Dissociação Básica (Kb)", "pH e pOH", "Soluções Tampão"]
+      },
+      {
+        "topic": "Teoria de Lewis",
+        "subtopics": ["Ácido de Lewis", "Base de Lewis", "Aplicação na Formação de Complexos"]
+      }
+    ]
+  }
+]

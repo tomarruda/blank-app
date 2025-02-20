@@ -1,0 +1,98 @@
+[
+    {
+        "question": "Dois átomos com mesmo número de massa e diferentes números atômicos são classificados como:",
+        "options": [
+            "A) Isótopos",
+            "B) Isóbaros",
+            "C) Isótonos",
+            "D) Isoeletrônicos"
+        ],
+        "answer": "B) Isóbaros",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Número Atômico e Massa",
+            "subtopic": "Isóbaros"
+        },
+        "id": "9b83c19a-f709-4df7-9ea8-eb38cae20857"
+    },
+    {
+        "question": "Qual partícula subatômica determina a identidade de um elemento químico?",
+        "options": [
+            "A) Nêutrons",
+            "B) Prótons",
+            "C) Elétrons",
+            "D) Pósitrons"
+        ],
+        "answer": "B) Prótons",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Partículas Subatômicas",
+            "subtopic": "Prótons"
+        },
+        "id": "3cf470a9-9462-47d4-b525-8c2e925d2915"
+    },
+    {
+        "question": "Qual configuração eletrônica representa um cátion de ferro (Fe³⁺)?",
+        "options": [
+            "A) [Ar] 3d⁵ 4s⁰",
+            "B) [Ar] 3d⁶ 4s²",
+            "C) [Ar] 3d³ 4s²",
+            "D) [Ar] 3d⁴ 4s¹"
+        ],
+        "answer": "A) [Ar] 3d⁵ 4s⁰",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Configuração Eletrônica de Íons",
+            "subtopic": "Elementos de Transição"
+        },
+        "id": "fd32508e-4593-4bc3-88cc-5d9bc29167e5"
+    },
+    {
+        "question": "Qual propriedade explica o aumento do raio atômico em um grupo da tabela periódica?",
+        "options": [
+            "A) Aumento da carga nuclear efetiva",
+            "B) Adição de novas camadas eletrônicas",
+            "C) Diminuição da energia de ionização",
+            "D) Redução da eletronegatividade"
+        ],
+        "answer": "B) Adição de novas camadas eletrônicas",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Raio Atômico"
+        },
+        "id": "3c54d204-d82a-4a7e-afa7-a8541dbe133a"
+    },
+    {
+        "question": "Por que os metais alcalinos têm baixa energia de ionização?",
+        "options": [
+            "A) Alta eletronegatividade",
+            "B) Grande raio atômico e blindagem eficaz",
+            "C) Configuração eletrônica d⁵ estável",
+            "D) Presença de elétrons deslocalizados"
+        ],
+        "answer": "B) Grande raio atômico e blindagem eficaz",
+        "tags": {
+            "content": "Propriedades Periódicas",
+            "topic": "Propriedades Periódicas",
+            "subtopic": "Energia de Ionização"
+        },
+        "id": "c3824b23-1b5a-4323-a584-d9c493b0c274"
+    },
+    {
+        "question": "Qual princípio proíbe dois elétrons de compartilharem os quatro números quânticos idênticos?",
+        "options": [
+            "A) Regra de Hund",
+            "B) Princípio de Aufbau",
+            "C) Teoria VSEPR",
+            "D) Princípio da Exclusão de Pauli"
+        ],
+        "answer": "D) Princípio da Exclusão de Pauli",
+        "tags": {
+            "content": "Estrutura Atômica",
+            "topic": "Distribuição Eletrônica",
+            "subtopic": "Princípio da Exclusão de Pauli"
+        },
+        "id": "63d231c7-e181-42b7-af1b-4eae752c7737"
+    }
+]

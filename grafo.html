@@ -1,0 +1,58 @@
+import streamlit as st
+import json
+
+# Carregar o JSON do grafo (substitua pelo caminho correto)
+json_file_path = "/workspaces/blank-app/QIT1001.json"
+
+# Ler os dados do JSON
+with open(json_file_path, "r") as file:
+    graph_data = json.load(file)
+
+# Criar um código HTML para exibir o grafo
+html_template = f"""
+<!DOCTYPE html>
+<html>
+<head>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/vis-network.min.js"></script>
+  <style type="text/css">
+    #mynetwork {{
+      width: 100%;
+      height: 600px;
+      border: 1px solid lightgray;
+    }}
+  </style>
+</head>
+<body>
+  <div id="mynetwork"></div>
+  <script type="text/javascript">
+    var nodes = new vis.DataSet({json.dumps(graph_data["nodes"])});
+    var edges = new vis.DataSet({json.dumps(graph_data["edges"])});
+
+    var container = document.getElementById('mynetwork');
+    var data = {{ nodes: nodes, edges: edges }};
+    var options = {{
+      physics: {{
+        stabilization: false
+      }},
+      edges: {{
+        arrows: 'to',
+        color: '#848484',
+        width: 2
+      }},
+      nodes: {{
+        shape: 'dot',
+        size: 15,
+        color: '#97C2FC'
+      }}
+    }};
+    var network = new vis.Network(container, data, options);
+  </script>
+</body>
+</html>
+"""
+
+# Salvar o HTML localmente
+with open("grafo.html", "w") as file:
+    file.write(html_template)
+
+st.success("Arquivo HTML do grafo gerado com sucesso! Agora vá para o próximo passo.")

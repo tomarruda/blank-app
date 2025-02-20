@@ -143,7 +143,6 @@ if st.session_state.finalizou_quiz:
     if st.button("⬅️ Voltar para a Página do Aluno"):
         st.switch_page("pages/7_👨🏻‍🎓Página_do_Aluno.py")
 """
-
     # Salvar o script Python na pasta correta
     with open(py_filename, "w", encoding="utf-8") as file:
         file.write(script_content)
